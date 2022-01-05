@@ -1,0 +1,1 @@
+pyinstaller run.py --onefile --add-data "libeay32.dll;." --add-data "icon.ico;icon.ico"  -n shs-1081-v2.3 --icon=icon.ico
